@@ -37,10 +37,10 @@
         // -----------------------------
         $('.timer').syotimer({
             year: 2019,
-            month: 03,
-            day: 15,
-            hour: 00,
-            minute: 00
+            month: 3,
+            day: 17,
+            hour: 1,
+            minute: 1,
         });
         // -----------------------------
         // To Top Init
