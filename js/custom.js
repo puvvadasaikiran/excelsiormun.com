@@ -38,7 +38,7 @@
         $('.timer').syotimer({
             year: 2019,
             month: 3,
-            day: 17,
+            day: 15,
             hour: 1,
             minute: 1,
         });
